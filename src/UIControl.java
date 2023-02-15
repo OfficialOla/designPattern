@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class UIControl {
+public class UIControl {
+    public void enable(){
+        System.out.println("Enabled");
+    }
 }

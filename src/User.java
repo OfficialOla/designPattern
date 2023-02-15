@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class User {
+public class User {
+    public String name;
+    public User(String name){
+        this.name = name;
+    }
 }
